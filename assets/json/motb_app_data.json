@@ -1,0 +1,226 @@
+{
+  "version": 58,
+
+  "latestAppVersion": "1.0.0+32",
+  "iosStoreUrl": "https://testflight.apple.com/join/LnNqyQu4",
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=org.motb.mobile.museumofthebible",
+  "company": {
+    "name": "Museum of the Bible",
+    "address": "400 4TH ST SW, WASHINGTON, DC 20024",
+    "phone": "(866) 430-6682",
+    "email": "customerservice@mBible.org",
+    "website": "https://www.museumofthebible.org",
+    "ticketsUrl": "https://tickets.museumofthebible.org/visit/get-tickets",
+    "donateUrl": "https://www.museumofthebible.org/donate?src=motbapp",
+    "operatingHours": "Open 10:00 a.m. to 5:00 p.m. every day.  Members and Groups receive early entry from 9:00 to 10:00 a.m. every day except Sunday.",
+    "promoText": "Save $5 on adult General Admission by getting your tickets through this app by tapping \"Get Tickets\" below."
+  },
+  "artifacts": [
+    {
+      "uuid": "hannahMoreDesk",
+      "title": "Hannah More's Writing Desk",
+      "dateAdded": "1/30/2022",
+      "description": "Used by anti-slavery activist Hannah More (1745–1833)",
+      "provenance": "desk provenance",
+      "modelUrl": "assets/artifacts/hannahMoreDesk/HMDesk.glb",
+      "previewImageUrl": "asset://artifacts/hannahMoreDesk/hannahDeskPreview.png",
+      "backgroundImage": "color://ff51C5B7",
+      "cameraX": 0.0,
+      "cameraY": 0.0,
+      "cameraZ": 0.0,
+      "cameraZoom": 20.0,
+      "focusPoints": [
+        {
+          "uuid": "hannahMore",
+          "subtitle": "Hannah More's Writing Desk",
+          "title": "About Hannah More",
+          "publisher": "Circa Mid 1700s-Early 1800s",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 30.0,
+          "thumbnailImage": "asset://artifacts/hannahMoreDesk/hannahMoreThumbnail.png",
+          "detailImage": "asset://artifacts/hannahMoreDesk/hannahMorePortrait.png",
+          "description": "Hannah More (1745 – 1833) was an English poet, playwright, educator and philanthropist. Her father, a schoolmaster, provided an opportunity for young Hannah to receive a formal education.  More eventually founded 12 schools throughout the Somerset, England area and was an advocate for the poor and women’s welfare. Later in life her writing became more evangelical and More joined a group opposing the slave trade. Her poem, “Slavery, a Poem” argued that skin color should not determine personhood. The poem was written in support of William Wilberforce’s campaign to abolish slavery and became one of the most important pieces of literature regarding the abolitionist movement.\n\nMore’s influential writing provided a powerful voice in her joint campaign to abolish slavery with William Wilberforce. 19 years after More’s famous “Slavery” poem, she and Wilberforce saw the fruits of the labor through a bill that was passed that ended the slave trade."
+        },
+        {
+          "uuid": "hannahMoreDeskTop",
+          "subtitle": "Hannah More's Writing Desk",
+          "title": "Marquetry",
+          "publisher": "Marquetry Desktop Detail",
+          "x": 0.0,
+          "y": 20.0,
+          "z": 0.0,
+          "thumbnailImage": "asset://artifacts/hannahMoreDesk/desktopThumbnail.png",
+          "detailImage": "asset://artifacts/hannahMoreDesk/HMDesk_top.gif",
+          "description": "The marquetry decorative technique on the desktop was very popular during\nHannah’s later years. With the many important works that Hannah turned \nout in her later years, just think of the many hours she spent at this desk \npenning impactful pieces of literature with her pen and an oil lamp."
+        },
+        {
+          "uuid": "hannahMoreProvenance",
+          "subtitle": "Hannah More's Writing Desk",
+          "title": "Provenance",
+          "publisher": "Detail of note pasted on back",
+          "x": -1.0,
+          "y": 8.0,
+          "z": -11.0,
+          "thumbnailImage": "asset://artifacts/hannahMoreDesk/deskWritingThumbnail.png",
+          "detailImage": "asset://artifacts/hannahMoreDesk/HMDesk_back.gif",
+          "description": "An important part of the provenance of this piece consists of a note pasted \non the back of the desk states, *“This old Sheraton table was Hannah Mores \nthe table she did her writing on when she died her furniture fell in hand to a \nman by the name of Knowles on the death of Knowles it was [...] sold.\"*"
+        },
+        {
+          "uuid": "hannahMoreCollection",
+          "thumbnailImage": "asset://images/motb_logo_black.png",
+          "subtitle": "",
+          "title": "Learn more on our collections page",
+          "publisher": "",
+          "externalLink": "https://collections.museumofthebible.org/artifacts/45217-hannah-mores-writing-desk?&tab=description&src=motbapp"
+        }
+      ]
+    },
+
+    {
+      "uuid": "greatBibleWithWoodenCover",
+      "title": "Great Bible Portion with Carved Wooden Cover",
+      "dateAdded": "1/27/2022",
+      "description": "Most of these Bibles were burned by order of Queen Mary.",
+      "provenance": "",
+      "modelUrl": "assets/artifacts/woodenBible/GreatBibleWoodenCover.glb",
+      "previewImageUrl": "asset://artifacts/woodenBible/preview.jpg",
+      "backgroundImage": "color://FFBED8FC",
+      "cameraX": 0.0,
+      "cameraY": 0.0,
+      "cameraZ": 0.0,
+      "cameraZoom": 10.0,
+      "focusPoints": [
+        {
+          "uuid": "gbWoodenCover",
+          "subtitle": "Overview",
+          "title": "Great Bible with Wooden Cover",
+          "publisher": "Circa 1569",
+          "thumbnailImage": "asset://artifacts/woodenBible/frontThumb.png",
+          "detailImage": "asset://artifacts/woodenBible/preview.jpg",
+          "description": "The Great Bible was a translation first released in 1539 and was the first authorized edition of the Bible in English. This bible was authorized by King Henry VIII of England and was established to be read aloud in the church services of the Church of England. This is only a “portion” of the Great Bible, as this version starts in Exodus 12 and ends with Amos 5.\n\nA note found in the endpapers written by “E. N.” suggest it was probably printed in 1569. The cover is unique, containing words and drawings carved into the thick wood."
+        },
+        {
+          "uuid": "gbProvenance",
+          "subtitle": "",
+          "title": "Provenance",
+          "publisher": "",
+          "thumbnailImage": "asset://artifacts/woodenBible/insideCoverThumbnail.png",
+          "detailImage": "asset://artifacts/woodenBible/insideCover.jpg",
+          "description": "A handwritten note on the endpaper states this was “purchased . . . in June 1876 at the sale of the Reverend Thomas Corser.” G. Wilson Rigg is written on the endpaper. A note following his inscription, but written in a different hand, states that it was “purchased by him in June 1876.” The handwritten note following George Wilson Rigg’s signature is written with a different hand in the passive tense, suggesting the owner after Rigg wrote the note. An inscription written in pencil on the back endpapers states, “Sotheby. 5.vi.50 as part of Lot 15.” Sotheby’s has provided no additional information. Additional notes in pencil written by an unknown “E. N.” are present on the front endpapers. It is unclear who “E. N.” was and if the notes were written by the same hand. A bookplate on the front pastedown states Smith’s name, Zion Research Library, and the year “1957.” Marguerite Smith was a librarian at Zion Research Library in Massachusetts and worked in the National Woman's Party."
+        },
+        {
+          "uuid": "gbBurned",
+          "subtitle": "",
+          "title": "Burned by Queen Mary",
+          "publisher": "",
+          "thumbnailImage": "asset://artifacts/woodenBible/queenMaryThumbnail.png",
+          "detailImage": "asset://artifacts/woodenBible/queenMary.jpg",
+          "description": "Inside the front cover, the original owner of this bible wrote, “Most of the copies of this Bible were burned by order of Queen Mary,” referencing Mary I of England, otherwise known as “Bloody Mary.” Not only did Mary I of England burn almost all of these bibles, she also burned over 300 religious dissenters for “heresy.”"
+        },
+        {
+          "uuid": "gbFrontCover",
+          "subtitle": "",
+          "title": "Front Cover",
+          "publisher": "",
+          "thumbnailImage": "asset://artifacts/woodenBible/frontThumb.png",
+          "detailImage": "asset://artifacts/woodenBible/GB_WoodenFront.gif",
+          "description": "The front cover depicts an individual paying reference to a deceased knight with the words “The Chapel of our Ladye Talbote.”"
+        },
+        {
+          "uuid": "gbBackCover",
+          "subtitle": "",
+          "title": "Back Cover",
+          "publisher": "",
+          "thumbnailImage": "asset://artifacts/woodenBible/backCoverThumbnail.png",
+          "detailImage": "asset://artifacts/woodenBible/GB_WoodenBack.gif",
+          "description": "The back cover depicts knights in typical 16th-century armor and a woman with a child, most likely Mary with Jesus, since written above the carving is “The Blessed Virgin Mother.”"
+        },
+        {
+          "uuid": "gbCollection",
+          "thumbnailImage": "asset://images/motb_logo_black.png",
+          "subtitle": "",
+          "title": "Learn more on our collections page",
+          "publisher": "",
+          "externalLink": "https://collections.museumofthebible.org/artifacts/117-great-bible-portion-with-carved-wooden-cover?tab=description&src=motbapp"
+        }
+      ]
+    },
+    {
+      "uuid": "Noravank_Khachkar",
+      "title": "The Noravank Khachkar",
+      "dateAdded": "04/20/2022",
+      "description": "Khachkars are outdoor steles carved from stone by craftspeople in Armenia and communities in the Armenian diaspora. They act as a focal point for worship, as memorial stones and as relics facilitating communication between the secular and divine.\nThis khachkar is a replica of the 1308 khachkar at the Noravank monastery in Armenia. The original was carved by master carver Momik Vardpet in memory of the renowned historian and bishop Stepanos Orbelian. The centerpiece of the khachkar is a cross adorned with sprouting plants, blooming flowers, and fruit in what is called the *tree of life* tradition.",
+      "provenance": "Created from 2019–2020 by Ruben Nalbandyan in Arshaluys, Armenia; Donated in 2020 to Museum of the Bible, Washington, DC.",
+      "modelUrl": "assets/artifacts/NoravankKhachkar/bigKhachkar.glb",
+      "previewImageUrl": "asset://artifacts/NoravankKhachkar/khachkar_fp.png",
+      "backgroundImage": "asset://artifacts/NoravankKhachkar/khackkar_bg.png",
+      "cameraX": 0.0,
+      "cameraY": 0.0,
+      "cameraZ": 0.0,
+      "cameraZoom": 10.0,
+      "focusPoints": [
+        {
+          "uuid": "largekhachkar",
+          "subtitle": "2020",
+          "title": "About The Noravank Khachkar",
+          "publisher": "2019-2020, Ruben Nalbandyan",
+          "thumbnailImage": "asset://artifacts/NoravankKhachkar/khachkar_fp.png",
+          "detailImage": "asset://artifacts/NoravankKhachkar/khachkar_fp.png",
+          "description": "This khachkar is a replica of one commissioned by T'amt'a Khatun, a noblewoman, to *beseech the salvation* of a noble and her two sons in 1308. The original khachkar's carver, a polymath named Momik, was a master artist in his time. Museum of the Bible's replica of his work was carved by a modern master of khachkars, Ruben Nalbandyan. The work of both masters is evident.\nPronounced \"chotch-car\", the word literally means \"cross stone.\" Though the translation is simple enough, the emphasis thousands of khachkars across Armenia and its historical lands place on the cross is anything but. The best way to understand is to see for yourself.\nThis khachkar is impressively large; it stands 82in high, 33.5in wide and 9.75in thick.",
+          "x": 0.0,
+          "y": 20.0,
+          "z": 0.0
+        },
+        {
+          "uuid": "TheInfiniteCross",
+          "title": "The Infinite Cross",
+          "publisher": "2019-2020, Ruben Nalbandyan",
+          "subtitle": "Intricate Cross Detail",
+          "thumbnailImage": "asset://artifacts/NoravankKhachkar/TheInfiniteCross.jpg",
+          "detailImage": "asset://artifacts/NoravankKhachkar/TheInfiniteCross.jpg",
+          "description": "As you look at the khachkar, you see how each level of decoration, each level of flat surface carved deeper into the stone, exemplifies what he said. At the center of the stone, at the highest level, is the cross. Latin in form, the cross has no corners, no ends. It is infinite. Around the cross, within the scalloped frame, are leafy tendrils, showing the life-giving power that emanates from it.",
+          "x": 0.0,
+          "y": 20.0,
+          "z": 0.0
+        },
+        {
+          "uuid": "TheMysteryOfChristAndTheCross",
+          "title": "The Mystery of Christ and the Cross",
+          "publisher": "2019-2020, Ruben Nalbandyan",
+          "subtitle": "Medallion Detail",
+          "thumbnailImage": "asset://artifacts/NoravankKhachkar/TheMysteryofChristandtheCross.jpg",
+          "detailImage": "asset://artifacts/NoravankKhachkar/TheMysteryofChristandtheCross.jpg",
+          "description": "The cross, in its frame, rests atop an intricately woven medallion at the bottom. Infinite geometric patterns appear in the different concentric circles of the medallion. The medallion's meaning is varied. Some say it's the world set under the power of the cross, others that its complexity evokes the mystery of Christ; eternity is bound up with both.",
+          "x": 0.0,
+          "y": 20.0,
+          "z": 0.0
+        },
+        {
+          "uuid": "ThePantocrator",
+          "title": "The Pantocrator",
+          "publisher": "2019-2020, Ruben Nalbandyan",
+          "subtitle": "Deesis Detail",
+          "thumbnailImage": "asset://artifacts/NoravankKhachkar/ThePantocrator.jpg",
+          "detailImage": "asset://artifacts/NoravankKhachkar/ThePantocrator.jpg",
+          "description": "At the top is a Deesis, with Christ Pantocrator (meaning, *the omnipotent Lord of the universe*)— Christ All-Powerful — at center, flanked by two men. The character to the right is John the Baptist; the character to the left is unknown.\nThroughout, the intricate lacework carved at the deepest level connects every element of the composition, at times blending, at times distinguishing the decorations carved at other levels. The centrality of Christ and the cross unifies the khachkar.",
+          "x": 0.0,
+          "y": 20.0,
+          "z": 0.0
+        },
+        {
+          "uuid": "LargeKhachkarLearnMore",
+          "title": "Learn more on our collections page",
+          "publisher": "",
+          "subtitle": "",
+          "thumbnailImage": "asset://images/motb_logo_black.png",
+          "detailImage": "",
+          "externalLink": "https://collections.museumofthebible.org/artifacts/45681-large-hand-carved-armenian-cross-stone-khachkar?&tab=description&src=motbapp",
+          "x": 0.0,
+          "y": 20.0,
+          "z": 0.0
+        }
+      ]
+    }
+  ]
+}
