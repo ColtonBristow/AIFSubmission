@@ -1,4 +1,4 @@
-import 'package:aif_submission/core/data/models/Artifact_model.dart';
+import 'package:aif_submission/core/data/models/artifact_model.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
@@ -16,6 +16,19 @@ class CurrentArtifact extends StatelessWidget {
         decoration: BoxDecoration(borderRadius: borderRadius),
         child: Stack(
           children: [
+            Container(
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(20),
+                color: Theme.of(context).colorScheme.onBackground,
+              ),
+              width: 200,
+              height: MediaQuery.of(context).size.height * .3,
+              child: Icon(
+                Icons.add,
+                color: Theme.of(context).colorScheme.background,
+                size: 50,
+              ),
+            ),
             Container(
               decoration: BoxDecoration(
                 borderRadius: borderRadius,

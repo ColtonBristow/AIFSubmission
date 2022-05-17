@@ -1,7 +1,6 @@
 import 'package:aif_submission/core/data/models/focus_point_model.dart';
-import 'package:equatable/equatable.dart';
 
-class Artifact extends Equatable {
+class Artifact {
   const Artifact({
     required this.id,
     required this.uuid,

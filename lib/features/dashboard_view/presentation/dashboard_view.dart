@@ -1,4 +1,4 @@
-import 'package:aif_submission/features/artifactInFocus_collection_preview/presentation/artifact_in_focus.dart';
+import 'package:aif_submission/features/artifactInFocus_collection_preview/presentation/aif_dashboard_list.dart';
 import 'package:aif_submission/widgets/molecules/MainAppBar_Widget.dart';
 import 'package:aif_submission/widgets/molecules/TaskHistory_widget.dart';
 import 'package:flutter/material.dart';
